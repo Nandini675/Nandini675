@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="150" src="https://www.google.com/imgres?q=software%20developer%20image%20of%20a%20girl%20coding&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-programmer&docid=IHGyctRF0hCVVM&tbnid=TAGQWKfcsnjI_M&vet=12ahUKEwiq1pOizs-KAxUqSWwGHXsnJ7YQM3oECEEQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwiq1pOizs-KAxUqSWwGHXsnJ7YQM3oECEEQAA"  />
+  <img height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg " />
 </div>
 
 ###
@@ -105,8 +105,12 @@
 
 
 ###
+
+
 <br clear="both">
+
 <img src="https://raw.githubusercontent.com/Nandini675/Nandini675/output/snake.svg" alt="Snake animation" />
-###
 
 ###
+
+
