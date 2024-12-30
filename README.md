@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi there! I'm Nandini Sharma, a passionate learner and problem solver with a strong foundation in front-end and back-end development<br><br>-💻 I’m working on building innovative projects like Netflix-GPT and Stock Mania, where I integrate cutting-edge technologies to solve real-world problems.<br>- 📚 I’m currently expanding my skill set in backend development, exploring frameworks like Node.js and Express.js, while honing my expertise in React and Redux.<br>- 🚀 I thrive on tackling complex challenges in coding and development.<br>-🎨 In my free time, I enjoy exploring new technologies, contributing to cultural activities, and learning anything that sparks my curiosity.</p>
+<h3 align="left">Hi there! I'm Nandini Sharma, a passionate learner and problem solver with a strong foundation in front-end and back-end development<br><br>-💻 I’m working on building innovative projects like Netflix-GPT and Stock Mania, where I integrate cutting-edge technologies to solve real-world problems.<br>- 📚 I’m currently expanding my skill set in backend development, exploring frameworks like Node.js and Express.js, while honing my expertise in React and Redux.<br>- 🚀 I thrive on tackling complex challenges in coding and development.<br>-🎨 In my free time, I enjoy exploring new technologies, contributing to cultural activities, and learning anything that sparks my curiosity.</h3>
 
 ###
 
