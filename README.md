@@ -36,6 +36,10 @@
 <a href="https://linkedin.com/in/nandini-sharma-657894316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini-sharma-657894316" height="30" width="40" /></a>
 <a href="https://instagram.com/nandinisharma.5698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandinisharma.5698" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user6009zu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6009zu" height="30" width="40" /></a>
+  <a href="mailto:nandinisharmawork.01@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
+
 </p>
 
 ###
