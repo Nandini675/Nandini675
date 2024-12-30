@@ -1,7 +1,9 @@
-<div align="left">
-  <img height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg " />
-</div>
 
+###
+
+<img align="right" height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"  />
+
+###
 ###
 
 <p align="left">Hello World!!</p>
@@ -103,14 +105,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini675&area=false&theme=dracula" height="150" alt="activity-graph graph"  />
 </div>
 
-
 ###
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nandini675/Nandini675/output/snake.svg" alt="Snake animation" />
-
-###
 
 
