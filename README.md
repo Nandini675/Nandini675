@@ -12,6 +12,10 @@
 
 <h1 align="center">hey there 👋 I m Nandini Sharma</h1>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nandini675.Nandini675&"  />
+</div>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -82,12 +86,6 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nandini675.Nandini675&"  />
 </div>
 
 ###
